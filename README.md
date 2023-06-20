@@ -1,11 +1,13 @@
 # Healthify
 
-## Tekijät
+## Developed by
 
 - [@isakovero](https://www.github.com/isakovero)
 - [@MuathOthman](https://www.github.com/MuathOthman)
 - [@Agrinsadon](https://www.github.com/Agrinsadon)
 - [@muhissadik](https://www.github.com/muhissadik)
+
+## Project Demo
 
 
 ## 1 Introduction
